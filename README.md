@@ -1,2 +1,4 @@
 # ACOES-Tests
-Test suite with Selenium
+A Maven project that implements a test suite with Selenium
+
+
